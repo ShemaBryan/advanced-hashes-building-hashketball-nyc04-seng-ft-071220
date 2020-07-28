@@ -112,7 +112,15 @@ away: {
   slam_dunks: 0
 },
 {
-  player_name: "Kemba Walker"
+  player_name: "Kemba Walker",
+  number:
+  shoe:
+  points:
+  rebounds:
+  assists:
+  steals:
+  blocks:
+  slam_dunks:
   ]
  }
 }
