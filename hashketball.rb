@@ -113,7 +113,7 @@ away: {
 },
 {
   player_name: "Kemba Walker",
-  number:
+  number:33,
   shoe:
   points:
   rebounds:
