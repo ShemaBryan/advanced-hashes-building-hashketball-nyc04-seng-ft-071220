@@ -65,7 +65,7 @@ away: {
   assists: 1,
   steals: 2,
   blocks: 7,
-  slam_dunks: 2,
+  slam_dunks: 2
 },
 {
    player_name: "Bismack Biyombo",
@@ -76,7 +76,8 @@ away: {
    assists: 7,
    steal: 22,
    blocks: 15,
-   slam_dunks: 10,
+   slam_dunks: 10
+ },
  {
    player_name: "Desagna Diop",
    number: 2,
