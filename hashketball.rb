@@ -49,7 +49,14 @@ def game_hash
   steals: 3,
   blocks: 8,
   slam_dunks: 5
-  }
+},
+{
+  player_name: "Jason Terry",
+  number: 31,
+  shoe: 15,
+  points: 19,
+  rebounds: 2,
+  
 ]
 },
 away: {
