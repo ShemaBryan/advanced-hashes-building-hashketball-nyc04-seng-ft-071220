@@ -86,7 +86,8 @@ away: {
    rebound: 12,
    steals: 4,
    blocks: 5,
-   slam_dunks: 5,
+   slam_dunks: 5
+ },
  {
   player_name: "Ben Gordon",
   number: 8,
